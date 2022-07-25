@@ -1,5 +1,5 @@
 # JsTraine
-## Anastasia Kazakova
+## ***Anastasia Kazakova*** 
 1. 375259444835
 2. asya.kazakova.95@mail.ru
 3. Skils: C#, Git, HTML
